@@ -1,37 +1,48 @@
-title: Riya - All-in-One AI Assistant
-emoji: 🤖
-colorFrom: pink
-colorTo: purple
-sdk: gradio
-sdk_version: 4.19.2
-app_file: app.py
-python_version: 3.10
-license: mit
+# 🤖 Riya – Your All-in-One Generative AI Assistant
 
-files:
-  - path: index.html
-    type: frontend
+![Status](https://img.shields.io/badge/project-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Made With](https://img.shields.io/badge/Made%20with-Gradio-orange)
+![Deployed](https://img.shields.io/badge/deployed-yes-blue)
 
-description: |
-  Riya is your All-in-One Assistant, capable of answering questions, engaging in casual conversations, and helping with productivity. Built using Gradio with a custom HTML UI.
+Riya is a dynamic, intelligent, and youthful AI assistant designed to answer questions, hold casual conversations, and assist with various tasks. This project demonstrates the integration of **Gradio UI**, **OpenAI**, and **Google Colab** to build a modern generative AI interface.
 
-dependencies:
-  - gradio==4.19.2
-  - openai
-  - python-dotenv
+---
 
-models:
-  - openai/gpt-3.5-turbo  # Or any other LLM you are using
+## 🌐 Live Demo
 
-tags:
-  - Generative AI
-  - Assistant
-  - Gradio
-  - Custom UI
-  - OpenAI
+👉 [**Launch Riya Now**](https://your-deployment-link.com)  
 
-metadata:
-  creator: Santhosh V
-  age: 19
-  personality: Youthful, Intelligent, Dynamic AI
-  profile_image: https://herobot.app/wp-content/uploads/2022/11/AI-bot-1.jpg
+---
+
+## 🧠 Features
+
+- 💬 Conversational AI with natural responses  
+- 🧠 Powered by OpenAI's Generative Models  
+- ⚡️ Lightweight and fast Gradio-based interface  
+- 🌐 Google Colab integration for training and testing  
+- 🖼️ Profile with personalized information and tooltips  
+
+---
+
+<details>
+<summary><strong>🚀 Technologies Used</strong></summary>
+
+- **Gradio** – For UI and interactivity  
+- **OpenAI GPT** – For generating responses  
+- **Google Colab** – For prototyping and experimentation  
+- **HTML, CSS** – For frontend styling  
+- **JavaScript (module)** – For dynamic embedding  
+</details>
+
+---
+
+## 📷 Interface Preview
+![image](https://github.com/user-attachments/assets/d0416ee6-4268-440b-99e6-7986f796f03a) 
+*Clean and simple AI assistant interface*
+
+---
+
+## 🛠️ How to Run Locally
+
+```bash
