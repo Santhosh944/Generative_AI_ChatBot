@@ -45,4 +45,35 @@ Riya is a dynamic, intelligent, and youthful AI assistant designed to answer que
 
 ## 🛠️ How to Run Locally
 
-```bash
+Prerequisites
+Python 3.8+
+
+openai library
+
+gradio library
+
+API Key from OpenAI
+
+# 1. Clone the repository
+git clone https://github.com/yourusername/riya-ai-assistant.git
+cd riya-ai-assistant
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Set your OpenAI API key
+export OPENAI_API_KEY=your-api-key
+
+# 4. Run the application
+python app.py
+
+
+riya-ai-assistant/
+│
+├── index.html   
+├── styles.css              
+├── script.js   
+└── README.md          
+
+📄 License
+This project is licensed under the MIT License – you're free to use, modify, and distribute it.
