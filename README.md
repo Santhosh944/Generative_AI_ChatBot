@@ -43,37 +43,34 @@ Riya is a dynamic, intelligent, and youthful AI assistant designed to answer que
 
 ---
 
-## 🛠️ How to Run Locally
+name: Riya – Your All-in-One Generative AI Assistant
+status: active
+license: MIT
+technologies:
+  - Gradio
+  - OpenAI GPT
+  - Google Colab
+  - HTML, CSS, JavaScript
+deployed: yes
 
-Prerequisites
-Python 3.8+
+live_demo: "https://your-deployment-link.com"
 
-openai library
-
-gradio library
-
-API Key from OpenAI
-
-# 1. Clone the repository
-git clone https://github.com/yourusername/riya-ai-assistant.git
-cd riya-ai-assistant
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Set your OpenAI API key
-export OPENAI_API_KEY=your-api-key
-
-# 4. Run the application
-python app.py
+how_to_run_locally:
+  prerequisites:
+    - Python 3.8+
+    - openai library
+    - gradio library
+    - OpenAI API key
 
 
-riya-ai-assistant/
-│
-├── index.html   
-├── styles.css              
-├── script.js   
-└── README.md          
+project_structure:
+  - index.html
+  - styles.css
+  - script.js
+  - README.md
 
-📄 License
-This project is licensed under the MIT License – you're free to use, modify, and distribute it.
+license:
+  name: MIT
+  note: "You're free to use, modify, and distribute it."
+
+author: Santhosh
