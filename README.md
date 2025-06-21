@@ -11,7 +11,7 @@ Riya is a dynamic, intelligent, and youthful AI assistant designed to answer que
 
 ## 🌐 Live Demo
 
-👉 [**Launch Riya Now**](https://your-deployment-link.com)  
+👉 [**Launch Riya Now**](https://generative-ai-chatbot.netlify.app/)  
 
 ---
 
@@ -38,5 +38,5 @@ Riya is a dynamic, intelligent, and youthful AI assistant designed to answer que
 ---
 
 ## 📷 Interface Preview
-![image](https://github.com/user-attachments/assets/d0416ee6-4268-440b-99e6-7986f796f03a) 
+![image](![image](https://github.com/user-attachments/assets/94cd1915-04a0-427b-b840-7d9598aacfbc)) 
 *Clean and simple AI assistant interface*
