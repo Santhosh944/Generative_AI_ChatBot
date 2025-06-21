@@ -38,5 +38,5 @@ Riya is a dynamic, intelligent, and youthful AI assistant designed to answer que
 ---
 
 ## 📷 Interface Preview
-![image](![https://github.com/yourusername/riya-ai-assistant/assets/banner.png]) 
+![Hero Preview](https://github.com/user-attachments/assets/5b7ff453-2e63-412d-a0ad-f6fe3e1e52c9)
 *Clean and simple AI assistant interface*
